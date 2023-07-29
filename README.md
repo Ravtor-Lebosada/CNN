@@ -1,3 +1,3 @@
-## Personal Project of Ravtor Lebosada
+# Personal Project of Ravtor Lebosada
 
-# Part 1: AI from Scratch
+## Part 1: AI from Scratch
