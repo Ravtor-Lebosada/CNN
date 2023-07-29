@@ -1,3 +1,3 @@
-# Personal Project of Ravtor Lebosada
+# Projects for Personal Development
 
 ## Part 1: AI from Scratch
